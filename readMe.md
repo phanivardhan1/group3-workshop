@@ -1,4 +1,4 @@
-** Prerequisites **
+**Prerequisites**
 cloudera quickstart running in the machine
 the following services should be running
 Hue
