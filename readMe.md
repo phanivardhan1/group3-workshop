@@ -52,4 +52,12 @@ flume <br/>
 ![screenshot 194](https://user-images.githubusercontent.com/31742627/48086073-920c0880-e1c1-11e8-9614-06135f1c412f.png)
 
 
-                
+
+
+powerpoint link :https://nwmissouri-my.sharepoint.com/:p:/g/personal/s530743_nwmissouri_edu/Eb2v1qAjITlHtq8ibnBwgUYBtUnK5fC6MC-BPcSrMkO8Ww?e=R8ImdO
+
+**Refrences** <br />
+https://github.com/abhiking-agrawal/exploreLogsCloudera
+
+https://www.cloudera.com/developers/get-started-with-hadoop-tutorial/exercise-3.html
+
