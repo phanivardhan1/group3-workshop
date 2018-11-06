@@ -1,10 +1,11 @@
 **Prerequisites**
 cloudera quickstart running in the machine
-the following services should be running
-Hue
-HDFS
-YARN
-Spark
+the following services should be running <br/>
+spark <br/> 
+Hue <br/>
+HDFS <br/>
+Spark <br/>
+flume <br/>
 
 **Introduction**
 
