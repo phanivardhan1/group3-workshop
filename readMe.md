@@ -23,9 +23,9 @@ Spark
  
   **step5**: Verify  collection in Solr by going to Hue and click Indexes
 
-**step6**: To see the collection that we created live_logs click on it.
+![screenshot 216](https://user-images.githubusercontent.com/31742627/48086158-c54e9780-e1c1-11e8-9ba3-7ec7e0e1e24d.png)
 
-![image1](https://paste.pics/b562862c7a86b3d6e02e2a39f8d6abfc)
+**step6**: To see the collection that we created live_logs click on it.
 
 **step7**: Starting  Log Generator
 **start_logs**
@@ -36,7 +36,8 @@ Spark
 **step9**: to stop the log generator you can: 
 **stop_logs**
 
-![image2](https://paste.pics/9cb1bbc3799d0b6df9e2ae8e9dec062e)
+![screenshot 192](https://user-images.githubusercontent.com/31742627/48085738-bca99180-e1c0-11e8-83eb-6907cf9e104d.png)
+
 
 **step10**: Flume and morphlines to load the index with the real-time log data
        **flume-ng agent \
@@ -45,7 +46,9 @@ Spark
                         --name agent1 \
                         -Dflume.root.logger=DEBUG,INFO,console**
 
-![image3](https://paste.pics/cf4a8492686d951c04e4e3ee60a3823d)
+![screenshot 193](https://user-images.githubusercontent.com/31742627/48085997-612bd380-e1c1-11e8-812f-0f67bd262319.png)
 
-![image4](https://paste.pics/a198e1b09ca5b13c6f71096047993fdd)
+![screenshot 194](https://user-images.githubusercontent.com/31742627/48086073-920c0880-e1c1-11e8-9614-06135f1c412f.png)
+
+
                 
